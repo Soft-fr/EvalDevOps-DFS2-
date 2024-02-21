@@ -115,3 +115,4 @@ C:\Users\coco2\Downloads\PratiqueWithCode_Groupe2_Subject\EvaluationSampleCodeTe
 C:\Users\coco2\Downloads\PratiqueWithCode_Groupe2_Subject\EvaluationSampleCodeTest\obj\Debug\net8.0\EvaluationSampleCodeTest.pdb
 C:\Users\coco2\Downloads\PratiqueWithCode_Groupe2_Subject\EvaluationSampleCodeTest\obj\Debug\net8.0\EvaluationSampleCodeTest.genruntimeconfig.cache
 C:\Users\coco2\Downloads\PratiqueWithCode_Groupe2_Subject\EvaluationSampleCodeTest\obj\Debug\net8.0\ref\EvaluationSampleCodeTest.dll
+C:\Users\coco2\Downloads\PratiqueWithCode_Groupe2_Subject\EvaluationSampleCodeTest\obj\Debug\net8.0\EvaluationSampleCodeTest.sourcelink.json

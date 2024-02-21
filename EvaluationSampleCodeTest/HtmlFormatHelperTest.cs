@@ -55,7 +55,7 @@ namespace EvaluationSampleCodeTests
         {
             // Arrange
             var helper = new HtmlFormatHelper();
-            var contents = new List<string>(); // empty list
+            var contents = new List<string>(); 
 
             // Act
             var result = helper.GetFormattedListElements(contents);

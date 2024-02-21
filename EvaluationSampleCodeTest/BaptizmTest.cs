@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using EvaluationSampleCode; // Assurez-vous que cet espace de noms correspond à votre projet
+using EvaluationSampleCode; 
 
 namespace EvaluationSampleCodeTests
 {
@@ -11,7 +11,7 @@ namespace EvaluationSampleCodeTests
         {
             // Arrange
             var clergyMember = new ClergyMember { IsPriest = true };
-            var baptizm = new Baptizm(new ClergyMember()); // Paramètre non utilisé dans ce test
+            var baptizm = new Baptizm(new ClergyMember()); 
 
             // Act
             var result = baptizm.CanBeBaptizedBy(clergyMember);
@@ -25,7 +25,7 @@ namespace EvaluationSampleCodeTests
         {
             // Arrange
             var clergyMember = new ClergyMember { IsPope = true };
-            var baptizm = new Baptizm(new ClergyMember()); // Paramètre non utilisé dans ce test
+            var baptizm = new Baptizm(new ClergyMember()); 
 
             // Act
             var result = baptizm.CanBeBaptizedBy(clergyMember);
@@ -38,8 +38,8 @@ namespace EvaluationSampleCodeTests
         public void CanBeBaptizedBy_WithNonPriestOrPope_ReturnsFalse()
         {
             // Arrange
-            var clergyMember = new ClergyMember(); // Ni prêtre ni pape
-            var baptizm = new Baptizm(new ClergyMember()); // Paramètre non utilisé dans ce test
+            var clergyMember = new ClergyMember();
+            var baptizm = new Baptizm(new ClergyMember()); 
 
             // Act
             var result = baptizm.CanBeBaptizedBy(clergyMember);

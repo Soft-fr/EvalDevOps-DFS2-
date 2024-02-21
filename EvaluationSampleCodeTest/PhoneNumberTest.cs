@@ -23,8 +23,8 @@ namespace EvaluationSampleCodeTests
 
         [TestMethod]
         [DataRow("")]
-        [DataRow("123456789")] // 9 digits
-        [DataRow("01234567890")] // 11 digits
+        [DataRow("123456789")] 
+        [DataRow("01234567890")] 
         [ExpectedException(typeof(ArgumentException))]
         public void Parse_InvalidInput_ThrowsArgumentException(string input)
         {
