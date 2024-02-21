@@ -12,6 +12,3 @@ cd EvalDevOps-DFS2-
 ```
 ## Auteurs
 Corentin Adelé - Soft-fr
-
-# Licence 
-Ce projet est sous licence XYZ - voir le fichier LICENSE.md pour plus de détails.
