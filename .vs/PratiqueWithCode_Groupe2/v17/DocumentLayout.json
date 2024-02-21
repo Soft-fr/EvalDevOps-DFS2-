@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|c:\\users\\coco2\\downloads\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetest\\phonenumbertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|solutionrelative:evaluationsamplecodetest\\phonenumbertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\coco2\\downloads\\pratiquewithcode_groupe2_subject\\evaluationsamplecode\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|c:\\users\\coco2\\downloads\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetest\\mathoperationstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|solutionrelative:evaluationsamplecodetest\\mathoperationstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\coco2\\downloads\\pratiquewithcode_groupe2_subject\\evaluationsamplecode\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|c:\\users\\coco2\\downloads\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetest\\htmlformathelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|solutionrelative:evaluationsamplecodetest\\htmlformathelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|c:\\users\\coco2\\downloads\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetest\\baptizmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|solutionrelative:evaluationsamplecodetest\\baptizmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\coco2\\downloads\\pratiquewithcode_groupe2_subject\\evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|c:\\users\\coco2\\downloads\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019C69D8-0C08-4FB4-A1B1-14EC6C2755ED}|EvaluationSampleCodeTest\\EvaluationSampleCodeTest.csproj|solutionrelative:evaluationsamplecodetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\coco2\\downloads\\pratiquewithcode_groupe2_subject\\evaluationsamplecode\\baptizm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\baptizm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneNumberTest.cs",
+              "DocumentMoniker": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\PhoneNumberTest.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTest\\PhoneNumberTest.cs",
+              "ToolTip": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\PhoneNumberTest.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTest\\PhoneNumberTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:20:35.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathOperationsTest.cs",
+              "DocumentMoniker": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\MathOperationsTest.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTest\\MathOperationsTest.cs",
+              "ToolTip": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\MathOperationsTest.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTest\\MathOperationsTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:20:15.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HtmlFormatHelperTest.cs",
+              "DocumentMoniker": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\HtmlFormatHelperTest.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTest\\HtmlFormatHelperTest.cs",
+              "ToolTip": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\HtmlFormatHelperTest.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTest\\HtmlFormatHelperTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:19:27.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaptizmTest.cs",
+              "DocumentMoniker": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\BaptizmTest.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTest\\BaptizmTest.cs",
+              "ToolTip": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\BaptizmTest.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTest\\BaptizmTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:17:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTest\\UnitTest1.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:13:31.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\MathOperations.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\MathOperations.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\MathOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:10:30.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\PhoneNumber.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\PhoneNumber.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:10:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HtmlFormatHelper.cs",
+              "DocumentMoniker": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "ToolTip": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:10:30.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Baptizm.cs",
+              "DocumentMoniker": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\Baptizm.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\Baptizm.cs",
+              "ToolTip": "C:\\Users\\coco2\\Downloads\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\Baptizm.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\Baptizm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:10:30.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
